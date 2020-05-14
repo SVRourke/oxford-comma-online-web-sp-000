@@ -9,3 +9,4 @@ def oxford_comma(array)
   end
 end
 
+puts oxford_comma(['f', 'g'])
